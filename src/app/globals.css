@@ -1,0 +1,5 @@
+@tailwind utilities;
+
+body {
+  font: 16px/1.5 'Geist', sans-serif;
+}
